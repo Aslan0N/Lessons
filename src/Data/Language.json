@@ -1,0 +1,54 @@
+{
+  "en": {
+    "p": "Find 3D Objects, Mockups and Illustration here.",
+    "h4": "Welcome !!",
+    "google": "Sign up with Google",
+    "facebook": "Sign up with Facebook",
+    "or": "OR",
+    "name": "Full Name",
+    "email": "Email Address",
+    "password": "Password",
+    "btn": "Create Account",
+    "end": "Allready have an account?",
+    "span": "Log in"
+  },
+  "az": {
+    "p": "3D Obyektləri, Maketləri və İllüstrasiyanı burada tapın.",
+    "h4": "Xoş gəldiniz!!",
+    "google": "Google ilə qeydiyyatdan keçin",
+    "facebook": "Facebook ilə qeydiyyatdan keçin",
+    "or": "YA",
+    "name": "Tam adı",
+    "email": "Email Address",
+    "password": "parol",
+    "btn": "Hesab yarat",
+    "end": "Artıq hesabınız var?",
+    "span": "Daxil ol"
+  },
+  "tr": {
+    "p": "3D Nesneleri, Mockup'ları ve Çizimleri burada bulabilirsiniz.",
+    "h4": "Hoş geldin!!",
+    "google": "Google ile kayd olun",
+    "facebook": "Facebook ile kayd olun",
+    "or": "VE YA",
+    "name": "Ad Soyad",
+    "email": "E-posta Adresi",
+    "password": "Şifre",
+    "btn": "Hesap oluşturmak",
+    "end": "Zaten bir hesabınız var mı?",
+    "span": "Giriş yapmak"
+  },
+  "es": {
+    "p": "Encuentra Objetos 3D, Mockups e Ilustración aquí.",
+    "h4": "Bienvenida !!",
+    "google": "Regístrese con Google",
+    "facebook": "Registrate con Facebook",
+    "or": "O",
+    "name": "Nombre completo",
+    "email": "Dirección de correo electrónico",
+    "password": "Contraseña",
+    "btn": "Crear una cuenta",
+    "end": "Ya tienes una cuenta?",
+    "span": "Acceso"
+  }
+}
