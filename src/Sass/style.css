@@ -682,7 +682,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  height: 50%;
+  height: 60%;
 }
 #new .main-container .login-top form label {
   width: 85%;
@@ -692,6 +692,14 @@ body {
   display: flex;
   justify-self: center;
   align-items: center;
+}
+#new .main-container .login-top form label i {
+  position: absolute;
+  top: 24px;
+  right: 10px;
+  z-index: 99999;
+  color: #969696;
+  font-size: 15px;
 }
 #new .main-container .login-top form label input {
   width: 100%;
@@ -724,9 +732,9 @@ body {
   z-index: 11;
   transition: all 700ms;
 }
-#new .main-container .login-top button {
+#new .main-container .login-top form button {
   width: 50%;
-  height: 10%;
+  height: 20%;
   text-align: center;
   align-self: center;
   outline: none;
@@ -737,13 +745,13 @@ body {
   position: relative;
   z-index: 999;
 }
-#new .main-container .login-top button:hover {
+#new .main-container .login-top form button:hover {
   color: #fff;
 }
-#new .main-container .login-top button:hover::after, #new .main-container .login-top button:hover::before {
+#new .main-container .login-top form button:hover::after, #new .main-container .login-top form button:hover::before {
   width: 100%;
 }
-#new .main-container .login-top button::after {
+#new .main-container .login-top form button::after {
   content: "";
   position: absolute;
   top: 0;
@@ -755,7 +763,7 @@ body {
   z-index: -1;
   transition: all 500ms ease-in;
 }
-#new .main-container .login-top button::before {
+#new .main-container .login-top form button::before {
   content: "";
   position: absolute;
   bottom: 0;
@@ -766,6 +774,34 @@ body {
   width: 0;
   z-index: -1;
   transition: all 500ms ease-in-out;
+}
+#new .main-container .login-top .suc-card {
+  width: 90%;
+  height: 60%;
+  border-radius: 12px;
+  background-color: #fff;
+  position: relative;
+  margin-left: 15px;
+  transition: all 800ms;
+}
+#new .main-container .login-top .suc-card i {
+  background-color: red;
+  color: #fff;
+  padding: 17px 18px;
+  border-radius: 50%;
+  font-size: 33px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+#new .main-container .login-top .suc-card h5 {
+  text-align: center;
+  width: 100%;
+  color: red;
+  font-weight: 600;
+}
+#new .main-container .login-top .suc-card h5 span {
+  color: #262626;
 }
 #new .main-container .login-top p {
   align-self: center;
